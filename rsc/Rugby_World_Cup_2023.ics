@@ -1,0 +1,439 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//html2ical.com//The iCal Calendar Maker
+NAME:Rugby World Cup
+SUMMARY:www.rugbyworldcup.com - France 2023
+DESCRIPTION:(https://www.rugbyworldcup.com/2023/matches)
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:132603995@html2ical.com
+DTSTART:20230908T210000
+DTEND:20230908T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Nouvelle-Zélande, France, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Nouvelle-Zélande, France, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1372387056@html2ical.com
+DTSTART:20230909T130000
+DTEND:20230909T140000
+SUMMARY:Rugby World Cup 2023: 13:00, vs: Afrique 1, Italie, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 13:00, vs: Afrique 1, Italie, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:775670710@html2ical.com
+DTSTART:20230909T153000
+DTEND:20230909T163000
+SUMMARY:Rugby World Cup 2023: 15:30, vs: Europe 2, Irlande, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 15:30, vs: Europe 2, Irlande, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:853700285@html2ical.com
+DTSTART:20230909T180000
+DTEND:20230909T190000
+SUMMARY:Rugby World Cup 2023: 18:00, vs: Europe 1, Australie, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 18:00, vs: Europe 1, Australie, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1266818800@html2ical.com
+DTSTART:20230909T210000
+DTEND:20230909T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Argentine, Angleterre, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Argentine, Angleterre, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1069132817@html2ical.com
+DTSTART:20230910T130000
+DTEND:20230910T140000
+SUMMARY:Rugby World Cup 2023: 13:00, vs: Amériques 2, Japon, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 13:00, vs: Amériques 2, Japon, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:721333266@html2ical.com
+DTSTART:20230910T174500
+DTEND:20230910T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Écosse, Afrique Du Sud, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Écosse, Afrique Du Sud, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1466172771@html2ical.com
+DTSTART:20230910T210000
+DTEND:20230910T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Fidji, Pays de Galles, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Fidji, Pays de Galles, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:488559609@html2ical.com
+DTSTART:20230914T210000
+DTEND:20230914T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Amériques 1, France, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Amériques 1, France, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1159349428@html2ical.com
+DTSTART:20230915T210000
+DTEND:20230915T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Afrique 1, Nouvelle-Zélande,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Afrique 1, Nouvelle-Zélande, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:434750179@html2ical.com
+DTSTART:20230916T150000
+DTEND:20230916T160000
+SUMMARY:Rugby World Cup 2023: 15:00, vs: Amériques 2, Samoa, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 15:00, vs: Amériques 2, Samoa, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1086139563@html2ical.com
+DTSTART:20230916T174500
+DTEND:20230916T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Vainqueur tournoi de qualif,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Vainqueur tournoi de qualif, Pays de Galles, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1764450833@html2ical.com
+DTSTART:20230916T210000
+DTEND:20230916T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Asie / Pacifique 1, Irlande,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Asie / Pacifique 1, Irlande, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1035958719@html2ical.com
+DTSTART:20230917T150000
+DTEND:20230917T160000
+SUMMARY:Rugby World Cup 2023: 15:00, vs: Europe 2, Afrique Du Sud, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 15:00, vs: Europe 2, Afrique Du Sud, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:484921689@html2ical.com
+DTSTART:20230917T174500
+DTEND:20230917T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Fidji, Australie, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Fidji, Australie, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:817945476@html2ical.com
+DTSTART:20230917T210000
+DTEND:20230917T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Japon, Angleterre, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Japon, Angleterre, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1504107901@html2ical.com
+DTSTART:20230920T174500
+DTEND:20230920T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Amériques 1, Italie, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Amériques 1, Italie, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:803161811@html2ical.com
+DTSTART:20230921T210000
+DTEND:20230921T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Afrique 1, France, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Afrique 1, France, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1994618451@html2ical.com
+DTSTART:20230922T174500
+DTEND:20230922T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Samoa, Argentine, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Samoa, Argentine, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:953909799@html2ical.com
+DTSTART:20230923T140000
+DTEND:20230923T150000
+SUMMARY:Rugby World Cup 2023: 14:00, vs: Vainqueur tournoi de qualif,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 14:00, vs: Vainqueur tournoi de qualif, Europe 1, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:752152374@html2ical.com
+DTSTART:20230923T174500
+DTEND:20230923T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Amériques 2, Angleterre, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Amériques 2, Angleterre, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1898750943@html2ical.com
+DTSTART:20230923T210000
+DTEND:20230923T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Irlande, Afrique Du Sud, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Irlande, Afrique Du Sud, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1449286547@html2ical.com
+DTSTART:20230924T174500
+DTEND:20230924T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Asie / Pacifique 1, Écosse, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Asie / Pacifique 1, Écosse, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1444779344@html2ical.com
+DTSTART:20230924T210000
+DTEND:20230924T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Australie, Pays de Galles, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Australie, Pays de Galles, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:611787038@html2ical.com
+DTSTART:20230927T174500
+DTEND:20230927T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Afrique 1, Amériques 1, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Afrique 1, Amériques 1, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:3245021@html2ical.com
+DTSTART:20230928T210000
+DTEND:20230928T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Samoa, Japon, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Samoa, Japon, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1757885680@html2ical.com
+DTSTART:20230929T210000
+DTEND:20230929T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Italie, Nouvelle-Zélande, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Italie, Nouvelle-Zélande, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:135903701@html2ical.com
+DTSTART:20230930T150000
+DTEND:20230930T160000
+SUMMARY:Rugby World Cup 2023: 15:00, vs: Amériques 2, Argentine, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 15:00, vs: Amériques 2, Argentine, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1232119518@html2ical.com
+DTSTART:20230930T174500
+DTEND:20230930T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Europe 1, Fidji, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Europe 1, Fidji, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:470751967@html2ical.com
+DTSTART:20230930T210000
+DTEND:20230930T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Europe 2, Écosse, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Europe 2, Écosse, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1173339766@html2ical.com
+DTSTART:20231001T174500
+DTEND:20231001T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Vainqueur tournoi de qualif,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Vainqueur tournoi de qualif, Australie, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:508178931@html2ical.com
+DTSTART:20231001T210000
+DTEND:20231001T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Asie / Pacifique 1, Afrique ...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Asie / Pacifique 1, Afrique Du Sud, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:861875861@html2ical.com
+DTSTART:20231005T210000
+DTEND:20231005T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Amériques 1, Nouvelle-Zéland...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Amériques 1, Nouvelle-Zélande, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:2084008525@html2ical.com
+DTSTART:20231006T210000
+DTEND:20231006T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Italie, France, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Italie, France, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1092206801@html2ical.com
+DTSTART:20231007T150000
+DTEND:20231007T160000
+SUMMARY:Rugby World Cup 2023: 15:00, vs: Europe 1, Pays de Galles, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 15:00, vs: Europe 1, Pays de Galles, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:272386617@html2ical.com
+DTSTART:20231007T174500
+DTEND:20231007T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Samoa, Angleterre, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Samoa, Angleterre, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1175872132@html2ical.com
+DTSTART:20231007T210000
+DTEND:20231007T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Écosse, Irlande, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Écosse, Irlande, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1137666583@html2ical.com
+DTSTART:20231008T130000
+DTEND:20231008T140000
+SUMMARY:Rugby World Cup 2023: 13:00, vs: Argentine, Japon, 
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 13:00, vs: Argentine, Japon, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:967553047@html2ical.com
+DTSTART:20231008T174500
+DTEND:20231008T184500
+SUMMARY:Rugby World Cup 2023: 17:45, vs: Europe 2, Asie / Pacifique 1...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:45, vs: Europe 2, Asie / Pacifique 1, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1425184865@html2ical.com
+DTSTART:20231008T210000
+DTEND:20231008T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Vainqueur tournoi de qualif,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Vainqueur tournoi de qualif, Fidji, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1803921198@html2ical.com
+DTSTART:20231014T170000
+DTEND:20231014T180000
+SUMMARY:Rugby World Cup 2023: 17:00, vs: Second poule D, Vainqueur po...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:00, vs: Second poule D, Vainqueur poule C, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:755948542@html2ical.com
+DTSTART:20231014T210000
+DTEND:20231014T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Second poule A, Vainqueur po...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Second poule A, Vainqueur poule B, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:491488565@html2ical.com
+DTSTART:20231015T170000
+DTEND:20231015T180000
+SUMMARY:Rugby World Cup 2023: 17:00, vs: Second poule C, Vainqueur po...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 17:00, vs: Second poule C, Vainqueur poule D, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:1848704848@html2ical.com
+DTSTART:20231015T210000
+DTEND:20231015T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Second poule B, Vainqueur po...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Second poule B, Vainqueur poule A, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:554832842@html2ical.com
+DTSTART:20231020T210000
+DTEND:20231020T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Vainqueur quart de finale 2,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Vainqueur quart de finale 2, Vainqueur quart de finale 1, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:571913373@html2ical.com
+DTSTART:20231021T210000
+DTEND:20231021T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Vainqueur quart de finale 4,...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Vainqueur quart de finale 4, Vainqueur quart de finale 3, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:202426201@html2ical.com
+DTSTART:20231027T210000
+DTEND:20231027T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Finaliste demi-finale 2, Fin...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Finaliste demi-finale 2, Finaliste demi-finale 1, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210823T123458
+UID:165763010@html2ical.com
+DTSTART:20231028T210000
+DTEND:20231028T220000
+SUMMARY:Rugby World Cup 2023: 21:00, vs: Vainqueur demi-finale 2, Vai...
+DESCRIPTION:[html2ical.com] Rugby World Cup 2023: 21:00, vs: Vainqueur demi-finale 2, Vainqueur demi-finale 1, 
+LOCATION:rugbyworldcup.com
+END:VEVENT
+END:VCALENDAR
